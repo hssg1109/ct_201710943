@@ -89,3 +89,4 @@ t1.fd(300)
 t1.rt(90)
 t1.fd(220)
 
+wn.exitonclick()
